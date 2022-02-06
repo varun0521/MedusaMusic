@@ -1,5 +1,5 @@
 {
-    "name":"MedusaMusic🎵",
+    "name":"Pariwarikmusic🎵",
     "description":"A Telegram bot for Download songs in mp3 format from YouTube and Extract lyrics from Genius.com ❤️",
     "keywords": [
         "Python",
@@ -12,7 +12,7 @@
         "heroku",
         "Bibee-Emio"
       ],
-    "repository": "https://github.com/bibee-emio/MedusaMusic",
+    "repository": "https://github.com/varun0521/MedusaMusic",
     "logo":"https://telegra.ph/file/d5aa388f60d4b40f84eaa.jpg",
     "stack":"heroku-20",
     "image":"heroku/python",
